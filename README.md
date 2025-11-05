@@ -1,5 +1,7 @@
 ## Automated Telegram News Summary Bot
 
+⚡ Instantly summarize global news inside Telegram — 100% free, private, and local. Built with Python + TextRank.
+
 Free, local-first Telegram bot that fetches news via RSS feeds and returns concise extractive summaries for user-selected topics.
 
 > No paid APIs required. Summarization is extractive (TextRank) and runs locally.
@@ -69,6 +71,9 @@ python -m src.main
 
 ### License
 MIT
+
+### Topics
+python, telegram-bot, automation, news, rss, nlp, text-summarization, textrank, open-source, local-first, bot-development, python-telegram-bot, asyncio, free-api, news-aggregator
 
 ### Notes
 - Summaries are extractive using TextRank; no paid API keys are needed
