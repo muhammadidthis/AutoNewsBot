@@ -1,4 +1,4 @@
-## Telegram News Summary Bot (Free stack)
+## Automated Telegram News Summary Bot
 
 Free, local-first Telegram bot that fetches news via RSS feeds and returns concise extractive summaries for user-selected topics.
 
